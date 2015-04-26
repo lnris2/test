@@ -6,4 +6,4 @@
 // @version     1
 // @author      .
 // ==/UserScript==
-render_inventory_img($("canvas"))
+render_inventory_img($("canvas"));
